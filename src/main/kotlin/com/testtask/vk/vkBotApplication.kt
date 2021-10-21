@@ -1,6 +1,5 @@
 package com.testtask.vk
 
-import com.testtask.vk.configuration.VKConfiguration
 import com.testtask.vk.controller.VkController
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
